@@ -1,0 +1,5 @@
+﻿  func.cpp
+H:\OTHER\code\C++ study\C++study2023-10\List\List\func.cpp(81,8): warning C4101: “i”: 未引用的局部变量
+  main.cpp
+  正在生成代码...
+  List.vcxproj -> H:\OTHER\code\C++ study\C++study2023-10\List\x64\Debug\List.exe

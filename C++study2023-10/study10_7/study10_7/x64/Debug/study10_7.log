@@ -1,0 +1,3 @@
+﻿  test.cpp
+H:\OTHER\code\C++ study\C++study2023-10\study10_7\study10_7\test.cpp(7,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  study10_7.vcxproj -> H:\OTHER\code\C++ study\C++study2023-10\study10_7\x64\Debug\study10_7.exe
